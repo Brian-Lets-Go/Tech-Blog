@@ -10,7 +10,7 @@
 ## [Description](#table-of-contents)
 This is tech blog where you can post tech updates and see updates from other users
 
-The application can be found [HERE](https://blooming-peak-47360.herokuapp.com/)
+The application can be found [HERE](https://evening-peak-47422.herokuapp.com/)
 
 ![Tech Blog Screenshot](public\assets\screenshot.JPG)
 
