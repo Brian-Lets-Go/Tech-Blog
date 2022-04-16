@@ -18,6 +18,10 @@ Comment.init(
             len: [1]
           }
         },
+        created_at: {
+          type: DataTypes.DATE,
+          defaultValue: sequelize.literal('NOW()')
+        },
         user_id: {
           type: DataTypes.INTEGER,
           references: {
